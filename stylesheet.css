@@ -1,0 +1,40 @@
+#cheminbenoit {
+  text-align: center;
+  font-family: arial;
+}
+
+.topnav {
+  text-align: center;
+  list-style-type: none;
+  word-spacing: 15px;
+}
+
+li {
+  display: inline;
+}
+
+hr {
+  color: black;
+}
+
+.header {
+  background-color: #e0fadc;  
+}
+
+.content {
+  padding-right: 30%;
+  padding-left: 50px;
+}
+
+.title {
+  font-family: arial;
+  font-size: 32px;
+}
+
+p {
+  font-family: cursive;
+}
+
+h3 {
+  font-family: arial;
+}
